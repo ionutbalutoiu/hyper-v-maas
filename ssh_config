@@ -1,0 +1,4 @@
+Host hyper-v
+    HostName 10.7.133.247
+    User ibalutoiu
+    IdentityFile ~/.ssh/id_rsa
